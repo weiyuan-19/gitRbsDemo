@@ -1,3 +1,4 @@
 
 
-local name = "demo2"
+-- local name = "demo2-conflict"
+local conflict = true
